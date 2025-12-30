@@ -1,2 +1,2 @@
 # algorithm
-resolve algorithm
+solve algorithm
