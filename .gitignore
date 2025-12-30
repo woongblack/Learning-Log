@@ -15,8 +15,6 @@ build/
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-# Java .class files
-*.class
 
 # IDE specific files
 .idea/
